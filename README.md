@@ -1,3 +1,9 @@
+# QR Code Scanner
+## Demo link: [MyScanner](https://qrscanner.subhamrakshit97.repl.co/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
